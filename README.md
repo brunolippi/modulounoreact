@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## GitHub Pages
+
+El proyecto se encuentra hosteado [acá](https://bzlippi.github.io/modulounoreact/).
 
 ## Available Scripts
 
