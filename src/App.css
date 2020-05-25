@@ -1,5 +1,23 @@
+html,body{ margin:0; padding:0; height:100%; width:100%; }
+
+.root{
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  position: fixed;
+}
+
 .App {
   text-align: center;
+  height: max-content;
+  background-color: #e7e7e7;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -35,4 +53,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.box{
+  margin: auto;
+  text-align: center;
+  width: 35%;
+  margin-top: 10px;
+  margin-bottom: auto;
+  border: 2px solid #dbdada;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.boton {
+  padding: 3px;
+}
+
+div .container-fluid {
+  display: block;
+}
+
+label {
+  margin-top: 0.5rem;
+}
+
+#sidebar {
+  background-color: #f1f1f1;
+}
+
+li {
+  font-size: 14px;
+  color: #616161;
+}
+
+footer {
+  background-color: #282c34;
+  padding-top: 6px;
 }
