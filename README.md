@@ -1,3 +1,11 @@
+## Modulo 1 React - UTN
+
+Trabajo practico de maquetado modular en React, no cuenta con funcionalidad.
+
+- Bootstrap
+- Javascript
+- React
+
 ## GitHub Pages
 
 El proyecto se encuentra hosteado [acá](https://bzlippi.github.io/modulounoreact/).
